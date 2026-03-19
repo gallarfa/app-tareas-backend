@@ -149,5 +149,7 @@ mongosh
 - Email: gallarfa.29@gmail.com
 - LinkedIn: linkedin.com/in/gallarfa
 - Portfolio: https://portfolio-eight-psi-k7r98buv9n.vercel.app
+
+  
 ⌨️ Desarrollado con ❤️ por Fernando Gallardo
 🚀 En búsqueda de mi primera oportunidad en IT
